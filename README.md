@@ -16,29 +16,10 @@ I'm a student passionate about technology and innovation, always striving to imp
 
 ---
 
-## 🚩 Highlight Projects
-
-- [**Luminus**](https://github.com/TheAndr3/Luminus) — The most complex project I've developed so far!
----
-
 ## 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theandr3)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://deds-portifolio.vercel.app/)
-
----
-
-
-## 🛠️ Technologies & Skills
-- Studying **TypeScript** with **Node.js** and **Next.js**
-- Creating scripts and automations with **Python**
----
-
-## ✨ Fun Facts
-
-- 🎲 RPG enthusiast
-- 🎬 Movie lover of all genres
-- 📚 Reading fuels my day
 
 ---
 
