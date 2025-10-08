@@ -5,37 +5,14 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a student passionate about technology and innovation, always striving to improve and learn something new. GitHub is a reflection of my ongoing pursuit of knowledge!
-
-- 🎓 **Computer Engineering** — UEFS
-- 💡 Always curious, proactive, and open to new challenges
-- 🚀 Turning ideas into real solutions
-
-
----
-
 ## 📫 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theandr3)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://deds-portifolio.vercel.app/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAndr3&show_icons=true&theme=tokyonight" alt="Andr3's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndr3&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAndr3&color=blueviolet" alt="profile views" />
-</p>
-
----
-
-<div align="center">
-  <b>“Knowledge is the one thing that no one can take away from you.”</b>
-</div>
+<a href="https://www.linkedin.com/in/theandr3">
+  <img align="center" width="20" src="https://cdn.simpleicons.org/linkedin/0A66C2" style="margin-right: 5px;" />
+  <b>LinkedIn</b>
+</a>
+&nbsp;&nbsp;
+<a href="https://deds-portifolio.vercel.app/">
+  <img align="center" width="20" src="https://cdn.simpleicons.org/vercel/FFFFFF" style="margin-right: 5px;" />
+  <b>Portfólio</b>
+</a>
