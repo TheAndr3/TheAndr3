@@ -4,7 +4,7 @@ I'm **André**, a Computer Engineering Student at UEFS based in Brazil.
 
 I have a passion for technology and innovation. If I see a problem, I try to code a solution for it.
 
-My main tech stack includes **Python**, **Next.js**, and **Node.js**. 
+My main tech stack includes **Python**, **Java**, **Javascript** and **PHP**. 
 
 I'm currently focused on building SaaS applications and exploring new web technologies.
 
