@@ -6,6 +6,5 @@ I have a passion for technology and innovation. If I see a problem, I try to cod
 
 My main tech stack includes **Next.js**, **Node.js**, **Typescript** and **Python**. 
 
-I'm currently focused on building SaaS applications and exploring new web technologies.
 ---
 [LinkedIn](https://www.linkedin.com/in/theandr3) • [Portfolio](https://deds-portifolio.vercel.app/)
