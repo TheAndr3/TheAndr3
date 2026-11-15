@@ -4,13 +4,8 @@
 
 - 🏛️ **Estagiário em Engenharia de Software** no **Tribunal de Contas da União (TCU)**
 - 🔬 **Pesquisador de Iniciação Científica / Extensão** na **UEFS** (Sistemas de Recomendação com LSH Forest & MinHash)
-- 🚀 **Google Student Ambassador 2026** & **Finalista Nacional do 13º Campus Mobile** (Instituto Claro / LSITEC)
+- 🚀 **Google Student Ambassador 2026** & **Participante Nacional do 13º Campus Mobile** (Instituto Claro / LSITEC)
 - 🎓 Bacharelado em Engenharia da Computação — **UEFS**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andrevnc-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrevnc)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-TheAndr3-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/TheAndr3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-andrevnc.dev-111111?style=flat-square&logo=vercel)](https://andrevnc.dev)
-
 ---
 
 ## 🤖 IA Generativa, Agentes & Machine Learning
