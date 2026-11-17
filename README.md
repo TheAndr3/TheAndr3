@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrevnc-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrevnc)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-TheAndr3-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/TheAndr3)
 [![Dev.to](https://img.shields.io/badge/Dev.to-theandr3-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/theandr3)
-[![Kaggle](https://img.shields.io/badge/Kaggle-theandr3-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/theandr3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-theandr3br-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/theandr3br)
 [![Portfolio](https://img.shields.io/badge/Portfolio-andrevnc.dev-111111?style=flat-square&logo=vercel)](https://andrevnc.dev)
 
 ---
@@ -19,7 +19,7 @@
 
 | Projeto | Stack & Conceitos | Links |
 | :--- | :--- | :--- |
-| **[Comanda](https://github.com/TheAndr3/comanda)** | Orquestração multi-agente para pós-venda de delivery (Claude Agent SDK, MCP, regras financeiras em código, guardrails determinísticos, BM25 + Snowball PT do zero e avaliação estilo τ-bench com 30 cenários, 8 adversariais e `pass³`). Última rodada: **30/30 cenários, `pass³` de 90% e US\$ 0,028 por atendimento** (base inicial: 21/30). | [📦 Código & 30 ADRs](https://github.com/TheAndr3/comanda) · [▶️ Replay (Vercel)](https://comanda-blond.vercel.app) · [🤗 Dataset (HF)](https://huggingface.co/datasets/TheAndr3/comanda-delivery-support-eval-ptbr) |
+| **[Comanda](https://github.com/TheAndr3/comanda)** | Orquestração multi-agente para pós-venda de delivery (Claude Agent SDK, MCP, regras financeiras em código, guardrails determinísticos, BM25 + Snowball PT do zero e avaliação estilo τ-bench com 30 cenários, 8 adversariais e `pass³`). Última rodada: **30/30 cenários, `pass³` de 90% e US\$ 0,028 por atendimento** (base inicial: 21/30). | [📦 Código & 30 ADRs](https://github.com/TheAndr3/comanda) · [▶️ Replay (Vercel)](https://comanda-blond.vercel.app) · [🤗 Dataset (HF)](https://huggingface.co/datasets/TheAndr3/comanda-delivery-support-eval-ptbr) · [📊 Notebook (Kaggle)](https://www.kaggle.com/code/theandr3br/comanda-multi-agent-delivery-support-bench-eval) |
 | **[LSH Forest & MinHash Recommender](https://huggingface.co/TheAndr3/lsh-forest-clinical-recommender)** | Motor de recomendação por Filtragem Colaborativa Baseada no Usuário em produção (`l=200`, `k=20`), arquitetura *Memory-First* com Cache LRU em RAM (~200ms em *warm start*), inferência em lote (300 pacientes/chamada) e degradação graciosa em 4 níveis. | [🤗 Modelo & Código (HF)](https://huggingface.co/TheAndr3/lsh-forest-clinical-recommender) · [🚀 Space (HF)](https://huggingface.co/spaces/TheAndr3/lsh-forest-recommender-demo) |
 | **Redes Neurais & IA Clássica do Zero** | Implementações fundamentais em Python sem frameworks caixa-preta: **[Multilayer Perceptron (Backpropagation)](https://github.com/TheAndr3/multilayer-perceptron)**, **[Mapas de Kohonen (SOM)](https://github.com/TheAndr3/kohonen-iris-plants)**, **[Adaline (Regra Delta LMS)](https://github.com/TheAndr3/adaline_valvulas)**, **[Perceptron](https://github.com/TheAndr3/perceptron-oil-problem)**, **[Controlador Fuzzy](https://github.com/TheAndr3/controlador_fuzzy)** e **[Algoritmo Genético](https://github.com/TheAndr3/Algoritmo-Genetico)**. | [📂 Repositórios](https://github.com/TheAndr3?tab=repositories) |
 
